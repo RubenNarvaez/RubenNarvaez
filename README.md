@@ -1,18 +1,19 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="[https://aristi.dev](https://www.linkedin.com/in/rub%C3%A9n-patricio-narv%C3%A1ez-burbano-12b906179/)">RubenNarvaez</a> 👋</h1>
+<h1 align="center">Hi, I am <a href="[https://aristi.dev](https://www.linkedin.com/in/rub%C3%A9n-patricio-narv%C3%A1ez-burbano-12b906179/)">RubenNarvaez</a> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://media.licdn.com/dms/image/D4E16AQHi3_KcnDDqlQ/profile-displaybackgroundimage-shrink_350_1400/0/1706065213783?e=1714003200&v=beta&t=UPR2SdD5AFUyOzI9xS1s1LIu4l4_jUyY-OMJwcGoioI)">
-<!--
-**RubenNarvaez/RubenNarvaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://media.licdn.com/dms/image/D4E16AQHi3_KcnDDqlQ/profile-displaybackgroundimage-shrink_350_1400/0/1706065213783?e=1714003200&v=beta&t=UPR2SdD5AFUyOzI9xS1s1LIu4l4_jUyY-OMJwcGoioI">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mi
+
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+- 🎥 AndroidStudio
+- ✏️ Kotlin
+- 📗 UI Design
+- 🚀 Jetpack Compose
+- 🧑‍🏫 MVVM Clean Architecture
+<br>
+
+
+
