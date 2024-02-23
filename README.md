@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<div align="center">
+<h1 align="center">Hola, soy <a href="[https://aristi.dev](https://www.linkedin.com/in/rub%C3%A9n-patricio-narv%C3%A1ez-burbano-12b906179/)">RubenNarvaez</a> 👋</h1>
+</div>
+<img src="[https://i.imgur.com/weNbhGZ.png](https://media.licdn.com/dms/image/D4E16AQHi3_KcnDDqlQ/profile-displaybackgroundimage-shrink_350_1400/0/1706065213783?e=1714003200&v=beta&t=UPR2SdD5AFUyOzI9xS1s1LIu4l4_jUyY-OMJwcGoioI)">
 <!--
 **RubenNarvaez/RubenNarvaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
